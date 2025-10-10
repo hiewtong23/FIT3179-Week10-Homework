@@ -60,10 +60,9 @@
           "bind": {
             "input": "select",
             "options": [
-              null,
+              "Show All",
               "Johor","Kedah","Kelantan","Melaka","Negeri Sembilan","Pahang",
-              "Pulau Pinang","Perak","Perlis","Selangor","Terengganu","Sabah","Sarawak",
-              "Kuala Lumpur","Labuan","Putrajaya"
+              "Pulau Pinang","Perak","Perlis","Selangor","Terengganu","Sabah","Sarawak"
             ],
             "name": "Select State: "
           }
